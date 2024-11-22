@@ -1,3 +1,6 @@
+# Military Terminal Program V1.0
+# Copyright (C) 2024, Sourceduty - All Rights Reserved.
+
 import time
 
 # Function to display the startup screen
