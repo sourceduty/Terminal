@@ -1,3 +1,5 @@
+====================================== SES-C0001-01 ======================================
+
 POWER IN (+)                   POWER IN (-)
 _______________            ________________
               |            |
@@ -28,8 +30,9 @@ ____________|___|________|___|_____________
                 |        |
                 |________|  SHAFT
 
+====================================================================================
+
 Legend:
---------
 
 POWER IN (+)  : Positive electrical power input
 POWER IN (-)  : Negative electrical power input
@@ -39,3 +42,5 @@ STATOR ENCLOSURE: Protective casing surrounding the stator windings
 SES MAGNETS    : Self-excited stator magnets that generate field energy
 STATOR         : The part of the motor that creates the magnetic field for operation
 SHAFT          : Rotating part connected to the rotor, delivering mechanical output
+
+====================================================================================
