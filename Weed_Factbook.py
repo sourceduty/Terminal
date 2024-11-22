@@ -60,7 +60,7 @@ def main():
     
     while True:
         try:
-            choice = int(input("\n>"))
+            choice = int(input("\n> "))
             if choice == 1:
                 cultivation_info()
             elif choice == 2:
