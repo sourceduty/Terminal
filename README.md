@@ -39,6 +39,10 @@ Prompts in command-line and programming environments are symbols or sequences th
 [Python Utilities](https://github.com/sourceduty/Python_Utilities)
 <br>
 [Space Terminal](https://github.com/sourceduty/Space_Terminal)
+<br>
+[Boot Programmer](https://github.com/sourceduty/Boot_Programmer)
+<br>
+[Programmer School](https://github.com/sourceduty/Programmer_School)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
