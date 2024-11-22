@@ -1,0 +1,40 @@
+POWER IN (+)                   POWER IN (-)
+_______________            ________________
+             |            |
+             |  --------  |
+             | |        | |
+             | |        | |
+             | |        | |
+             | |        | |
+            _|_|________|_|_
+           |_|_|________|_|_|   COMMUTATOR INTERFACE
+____________|___|________|___|_____________
+|               |        |                |   
+|____________  /__________\  _____________|   
+|            || ||      || ||             |   
+|            || ||      || ||             |   
+|            || ||      || ||             |   
+|            || ||      || ||             |   
+|            || || CORE || ||             |  STATOR ENCLOSURE
+|            || ||      || ||             |   
+|            || ||      || ||             |   
+|            || ||      || ||             |   
+|            || ||      || ||             |   
+|            ||_||______||_||   STATOR    |
+|            |__|________|__|   SES       |
+|               |        |                |   
+|_______________|________|________________|   
+|_______________|________|________________|   
+               |        |
+               |________|  SHAFT
+
+Legend:
+--------
+POWER IN (+)  : Positive electrical power input
+POWER IN (-)  : Negative electrical power input
+COMMUTATOR INTERFACE : Connection point for the commutator to the rotor
+CORE           : The central part of the stator winding
+STATOR ENCLOSURE: Protective casing surrounding the stator windings
+SES MAGNETS    : Self-excited stator magnets that generate field energy
+STATOR         : The part of the motor that creates the magnetic field for operation
+SHAFT          : Rotating part connected to the rotor, delivering mechanical output
