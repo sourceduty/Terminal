@@ -11,11 +11,11 @@ import os
 def main():
     print_help_menu()
     while True:
-        print("\nMain Menu:")
+        print("\nMain Menu:\n")
         print("1. Build Process Model")
         print("2. View Help")
-        print("3. Exit")
-        main_choice = input("Enter your choice (1-3): ").strip()
+        print("3. Exit\n")
+        main_choice = input(">>> ").strip()
 
         if main_choice == '1':
             select_architecture_level()
@@ -28,18 +28,21 @@ def main():
             print("Invalid choice. Please try again.")
 
 def print_help_menu():
-    print("\nOptimized Advanced Process Model Builder")
-    print("This program allows you to build detailed and customized process models step-by-step.")
-    print("\nKey Features:")
+    print("\n================================= Process Model Builder =================================\n")
+    print("This program allows you to build detailed and customized process models step-by-step.\n")
+    print("=========================================================================================\n")
+    print("\nKey Features:\n")
     print("1. Four architecture levels: Super, High, Medium, and Low.")
     print("2. Customizable step types, descriptions, priorities, and arrows.")
     print("3. Options to reorder, delete, and edit steps.")
-    print("4. Save models to a text file.")
-    print("\nHow to Use:")
+    print("4. Save models to a text file.\n")
+    print("=========================================================================================\n")
+    print("\nHow to Use:\n")
     print("1. Select 'Build Process Model' to start.")
     print("2. Follow prompts to add, customize, and manage steps.")
     print("3. Save the completed model.")
-    print("4. Use 'View Help' for guidance.")
+    print("4. Use 'View Help' for guidance.\n")
+    print("=========================================================================================\n")
 
 def select_architecture_level():
     print("\nSelect the Process Architecture Level:")
