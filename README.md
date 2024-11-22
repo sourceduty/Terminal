@@ -24,6 +24,13 @@ The terminal cursor is a visual indicator showing where text input will appear o
 Prompts in command-line and programming environments are symbols or sequences that indicate readiness to accept user input. They vary by context and are designed to provide visual cues about the environment. For instance, the >>> prompt is specific to the Python interactive shell (REPL), signaling the user to enter Python commands. In contrast, general-purpose terminal prompts often end with $ (common in Linux/macOS) or > (in Windows Command Prompt), reflecting the shell being used. Some environments provide secondary prompts for multiline input, such as Python’s ... for code blocks or loops. These prompts can often be customized to include additional context, like the username, current directory, or time, enhancing usability and workflow awareness. They serve as essential tools for distinguishing between different input states and environments in text-based interfaces.
 
 #
+### Single-Board Computer Terminals
+
+The basic terminals for single-board computers like Raspberry Pi, Arduino, and similar devices are designed for both hardware and software interfacing. On the hardware side, these boards typically feature GPIO (General Purpose Input/Output) pins, which allow connection to sensors, actuators, and other peripherals. GPIO pins can be configured as either input or output depending on the application. Many boards also include specialized terminals such as I2C, SPI, and UART for communication with external devices like displays, EEPROMs, and microcontrollers. Additionally, power supply terminals like 5V, 3.3V, and ground are essential for powering external components. Some models include built-in headers for convenient connection to standardized modules, such as HATs (Hardware Attached on Top) for Raspberry Pi or shields for Arduino.
+
+On the software side, these boards often support terminal emulators and command-line interfaces (CLIs) for user interaction. For Raspberry Pi, tools like SSH (Secure Shell) allow remote terminal access to its Linux-based operating system. Similarly, Arduino uses a USB terminal interface to upload sketches via the Arduino IDE. These software terminals enable users to configure settings, write and debug code, and monitor output data in real time. Advanced boards may offer terminals for graphical environments or APIs to interact with cloud services, further expanding their capabilities for IoT and automation projects.
+
+#
 ### Related Links
 
 [Powershell Boss](https://github.com/sourceduty/PowerShell_Boss)
