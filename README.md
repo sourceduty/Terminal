@@ -24,11 +24,21 @@ Prompts in command-line and programming environments are symbols or sequences th
 #
 ### Related Links
 
+[Powershell Boss](https://github.com/sourceduty/PowerShell_Boss)
+<br>
+[Terminal Buttons](https://github.com/sourceduty/Terminal_Buttons)
+<br>
+[Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
+<br>
+[Windows OS Simulator](https://github.com/sourceduty/Windows_OS_Simulator)
+<br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Python](https://github.com/sourceduty/Python)
 <br>
 [Python Utilities](https://github.com/sourceduty/Python_Utilities)
+<br>
+[Space Terminal](https://github.com/sourceduty/Space_Terminal)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
