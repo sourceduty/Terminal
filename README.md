@@ -1,6 +1,6 @@
 ![Terminal](https://github.com/user-attachments/assets/10ccf2d8-0342-4a1a-8a22-54bca9757335)
 
-> Text-based terminal and Command-Line Interface (CLI) and Text User Interface (TUI).
+> Text-based terminal, Command-Line Interface (CLI) and Text User Interface (TUI).
 #
 
 A terminal is a text-based interface used to interact with a computer’s operating system. Originally, terminals were physical devices that provided access to mainframe computers, consisting of a keyboard and a screen. In modern computing, a terminal is typically a software application that emulates the behavior of these physical devices. It serves as a window to execute command-line instructions and communicate directly with the operating system via a shell, such as Bash, Zsh, or PowerShell. Through a terminal, users can perform tasks like managing files, executing programs, or troubleshooting, often with greater speed and flexibility than graphical interfaces.
