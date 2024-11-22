@@ -63,6 +63,8 @@ APIs are widely used across many domains. They are essential in software develop
 [Local Offline AI](https://github.com/sourceduty/Local_Offline_AI)
 <br>
 [Military Programmer](https://github.com/sourceduty/Military_Programmer)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
