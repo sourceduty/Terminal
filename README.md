@@ -76,6 +76,24 @@ Windows Ink Workspace
 ```
 
 #
+### Backend Apps
+
+To access common apps in Windows via the terminal, you can use simple commands or shortcuts. For example, File Explorer can be opened by typing explorer in Command Prompt or PowerShell, while Calculator can be launched with the calc command. Steam is accessible with the steam command, provided the path is set correctly, and Photoshop can be opened using start photoshop if the path is configured. Similarly, you can open Microsoft Edge with start microsoft-edge: followed by a URL, or use start to open other apps like Microsoft Word or Excel if their paths are correctly set. These commands are straightforward ways to quickly access various applications directly from the terminal without navigating through menus.
+
+```
+File Explorer: explorer
+Calculator: calc
+Steam: steam
+Photoshop: start photoshop (if path is set)
+Microsoft Edge: start microsoft-edge: followed by URL
+Microsoft Word: start winword (if path is set)
+Microsoft Excel: start excel (if path is set)
+Command Prompt: cmd
+PowerShell: powershell
+Task Manager: taskmgr
+```
+
+#
 ### Related Links
 
 [Powershell Boss](https://github.com/sourceduty/PowerShell_Boss)
