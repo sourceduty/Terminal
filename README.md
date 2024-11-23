@@ -45,6 +45,37 @@ An API (Application Programming Interface) in the context of terminal commands r
 APIs are widely used across many domains. They are essential in software development, enabling integration between services, such as accessing a weather service to display data or automating deployment pipelines using cloud provider APIs. In system administration, terminal APIs allow users to control servers, manage storage, or configure network settings. They are also crucial in data analysis, allowing data scientists to pull information from databases or external sources into their workflows. Beyond technical applications, APIs are employed in automating repetitive tasks, enhancing productivity in workflows, and bridging communication between systems in industries like healthcare, finance, and e-commerce. The terminal serves as a direct and efficient interface to access these API-powered functionalities.
 
 #
+### Restricted Apps
+
+Many apps are restricted in terms of being launched directly from the terminal because they are either part of the Windows ecosystem, such as Modern/Universal Apps (UWP), or are integrated deeply into the system for specific tasks. These apps are often designed with GUI-based interactions in mind rather than command-line operations. For example, Microsoft Office apps like Word and Excel are not typically opened via simple terminal commands, and launching them requires navigating through their installation directories or using start with full paths. Apps like Microsoft Edge, Cortana, and Xbox App have specific commands to open them but are designed for user interaction in ways that don’t easily align with terminal-based operations.
+
+System apps like Task Manager, Windows Update, and Windows Security are also restricted, with their functionality often better suited for GUI interactions. For example, Windows Update can be triggered from the terminal through specific commands, but it’s not meant to be opened in a traditional terminal window. Apps that deal with background processes or require elevated permissions also cannot be simply accessed via terminal commands in many cases. In most cases, these apps are designed to be run through the Start Menu, or their configuration must be done through specific PowerShell commands or via system settings.
+
+```
+Microsoft Office Apps (Word, Excel, PowerPoint)
+Modern/Universal Apps (Mail, Photos, Calendar)
+Microsoft Edge
+Epic Games Launcher
+Origin
+Skype
+Zoom
+Cortana
+OneDrive
+Windows Update
+Task Manager
+Windows Security (Windows Defender)
+Cortana
+Xbox App
+Windows Store Apps (like Movies & TV, News)
+Snipping Tool
+System Settings (Control Panel, Settings)
+Virtual Desktops (Task View)
+Microsoft Teams
+Backup and Restore
+Windows Ink Workspace
+```
+
+#
 ### Related Links
 
 [Powershell Boss](https://github.com/sourceduty/PowerShell_Boss)
