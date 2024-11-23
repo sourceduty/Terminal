@@ -117,7 +117,7 @@ wiki_entries = {
 }
 
 def print_help_menu():
-    print("Hacker Jargon Wiki\n")
+    print("Hacker Wiki\n")
     print("1. View Wiki Entry")
     print("2. Add Wiki Entry")
     print("3. Update Wiki Entry")
