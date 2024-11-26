@@ -94,6 +94,15 @@ Task Manager: taskmgr
 ```
 
 #
+### Underwater Hotel
+
+![Underwater Hotel](https://github.com/user-attachments/assets/3037854e-5977-42e1-8cd8-cfa4e379ebb3)
+
+The Underwater Hotel Management Terminal is an innovative, text-based application designed to streamline the operations of an underwater hotel. This terminal provides an intuitive interface for managing various aspects of hotel operations, including room bookings, guest check-ins and check-outs, staff management, inventory control, and service bookings. The system features a simple menu-driven design that allows hotel managers to efficiently navigate and manage available rooms, view pricing and status, and calculate guest costs for stays. Additionally, it handles the logistics of booking additional services like restaurant reservations and spa treatments, ensuring a seamless experience for both hotel staff and guests.
+
+The terminal enhances the hotel's operational efficiency with its ability to track inventory levels, such as towels, bedsheets, and toiletries, and manage staff roles and assignments. The inclusion of customizable services adds a luxurious touch, enabling guests to enjoy fine dining and spa experiences during their stay. The system also provides detailed reports for staff management, helping hotel managers to maintain an organized and effective team. Overall, this underwater hotel management terminal offers a comprehensive solution that not only simplifies day-to-day hotel tasks but also creates a more enjoyable and personalized experience for guests.
+
+#
 ### Related Links
 
 [Powershell Boss](https://github.com/sourceduty/PowerShell_Boss)
