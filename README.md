@@ -106,6 +106,13 @@ The Underwater Hotel Management Terminal is an innovative, text-based applicatio
 The terminal enhances the hotel's operational efficiency with its ability to track inventory levels, such as towels, bedsheets, and toiletries, and manage staff roles and assignments. The inclusion of customizable services adds a luxurious touch, enabling guests to enjoy fine dining and spa experiences during their stay. The system also provides detailed reports for staff management, helping hotel managers to maintain an organized and effective team. Overall, this underwater hotel management terminal offers a comprehensive solution that not only simplifies day-to-day hotel tasks but also creates a more enjoyable and personalized experience for guests.
 
 #
+### 30 Day Challenge Terminal
+
+![30 Days](https://github.com/user-attachments/assets/c7d5cec6-fab3-4c1a-a17b-db63c47dad52)
+
+The 30-Day Content Creation Challenge program is a Python-based text user interface (TUI) designed to guide users through a series of daily content creation tasks. Upon launching, users are greeted with a help menu that outlines how to navigate the program using commands to start tasks, log notes upon completion, view statistics, and access help. The tasks are chosen randomly from a predefined list of 30 diverse activities aimed at enhancing various content creation skills. Each day's task is logged with a timestamp and user-entered notes, allowing users to reflect on their progress and the nuances of each task. The program requires daily interaction, with prompts for user input to proceed with tasks, check statistics of completed activities, or fetch help instructions, ensuring active engagement and self-paced progression through the challenge.
+
+#
 ### Related Links
 
 [Powershell Boss](https://github.com/sourceduty/PowerShell_Boss)
